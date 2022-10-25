@@ -1,0 +1,4 @@
+# Before I'm finished with this project I would like to continue adjusting the code to try some edge cases where the points do not converge to the global minimum of the Riesz Energy
+
+# Some known counterexamples being 4 points which start coplanar in a square configuration, as they converge to the saddle point of 4 points on a great circle in a square configuration
+# Additionally I'd like to check some edge cases where the convergence is not known, but possibly needs more interations to separate from the saddle points.
