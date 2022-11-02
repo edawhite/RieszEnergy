@@ -2,3 +2,6 @@
 
 # Some known counterexamples being 4 points which start coplanar in a square configuration, as they converge to the saddle point of 4 points on a great circle in a square configuration
 # Additionally I'd like to check some edge cases where the convergence is not known, but possibly needs more interations to separate from the saddle points.
+
+# Viewing the gif files rectangle, quadrilateral, and kite we notice that the rectangle converges to the saddle point of the Riesz Energy, which is to be expected as it is very similar to the saddle points of a square on any great circle
+# Interestingly both the quadrilateral and kite appear to initially converge to the saddle point, however eventual become perturbed enough to destabalize toward the global minimum. This seems to suggest a degree of symmetry is necessary to be an exceptional case to converge to the saddle point and otherwise we can expect to converge to the global minimum for 4 points.
